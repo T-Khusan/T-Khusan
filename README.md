@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Khusan Tojiboev and Software Developer specializing in Python and focus on backend.
+### I am Khusan Tojiboev and Software Developer specializing in Python, Go and focus on backend.
 
 
 ### Languages and Tools
