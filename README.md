@@ -15,8 +15,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on communication skills
 - 🌱 I’m currently learning GO & Docker more deeper
+- 🔭 I’m currently working on communication skills
 - 💬 Ask me about coding, table-tennis
 - 📫 How to reach me: @Khusanbek
 
