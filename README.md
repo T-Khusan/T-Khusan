@@ -22,8 +22,8 @@
 
 ### Me on social networks:
 
-linkedin: https://www.linkedin.com/in/khusann/
-telegram: https://t.me/Khusanbek
+linkedin: linkedin.com/in/khusann <br/>
+telegram: @Khusanbek
 
 
 ### Happy Coding
